@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\player_vs_player\\server.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\player_vs_player\\client.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\chessmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\classes\\chessmoves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|e:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\castle_codition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\classes\\castle_codition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\classes\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\user_control\\cube.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|e:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\classes\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\connection\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\player_vs_player\\server.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|e:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\connection\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\player_vs_player\\client.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\user_control\\cube.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\database\\talk_to_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\database\\talk_to_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\self_play\\self.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\self_play\\self.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\replay_mode\\replay_game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{826DC9DF-2603-4D9A-B52A-1B5B762D984C}|chess\\chess.csproj|solutionrelative:chess\\windows\\replay_mode\\replay_game.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 5,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "castle_codition.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\castle_codition.cs",
+              "RelativeDocumentMoniker": "chess\\classes\\castle_codition.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\castle_codition.cs",
+              "RelativeToolTip": "chess\\classes\\castle_codition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:50:16.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "piece.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\piece.cs",
+              "RelativeDocumentMoniker": "chess\\classes\\piece.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\piece.cs",
+              "RelativeToolTip": "chess\\classes\\piece.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T16:40:05.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "self.xaml",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml",
+              "RelativeDocumentMoniker": "chess\\windows\\self_play\\self.xaml",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml",
+              "RelativeToolTip": "chess\\windows\\self_play\\self.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T15:12:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "replay_game.xaml",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\replay_mode\\replay_game.xaml",
+              "RelativeDocumentMoniker": "chess\\windows\\replay_mode\\replay_game.xaml",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\replay_mode\\replay_game.xaml",
+              "RelativeToolTip": "chess\\windows\\replay_mode\\replay_game.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T15:12:14.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "server.xaml",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml",
+              "RelativeDocumentMoniker": "chess\\windows\\player_vs_player\\server.xaml",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml",
+              "RelativeToolTip": "chess\\windows\\player_vs_player\\server.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T15:12:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "game.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\game.cs",
+              "RelativeDocumentMoniker": "chess\\classes\\game.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\game.cs",
+              "RelativeToolTip": "chess\\classes\\game.cs",
+              "ViewState": "AgIAALACAAAAAAAAAAAiwFUBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:07:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChessMoves.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\ChessMoves.cs",
+              "RelativeDocumentMoniker": "chess\\classes\\ChessMoves.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\classes\\ChessMoves.cs",
+              "RelativeToolTip": "chess\\classes\\ChessMoves.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAqwMwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:07:18.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "client.xaml",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml",
+              "RelativeDocumentMoniker": "chess\\windows\\player_vs_player\\client.xaml",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml",
+              "RelativeToolTip": "chess\\windows\\player_vs_player\\client.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T15:04:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.xaml.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml.cs",
+              "RelativeDocumentMoniker": "chess\\windows\\player_vs_player\\client.xaml.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\client.xaml.cs",
+              "RelativeToolTip": "chess\\windows\\player_vs_player\\client.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:07:12.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.xaml.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml.cs",
+              "RelativeDocumentMoniker": "chess\\windows\\player_vs_player\\server.xaml.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\player_vs_player\\server.xaml.cs",
+              "RelativeToolTip": "chess\\windows\\player_vs_player\\server.xaml.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAowHwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:14:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "server.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\server.cs",
+              "RelativeDocumentMoniker": "chess\\connection\\server.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\server.cs",
+              "RelativeToolTip": "chess\\connection\\server.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:23:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "client.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\client.cs",
+              "RelativeDocumentMoniker": "chess\\connection\\client.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\connection\\client.cs",
+              "RelativeToolTip": "chess\\connection\\client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:59:13.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "talk_to_database.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\database\\talk_to_database.cs",
+              "RelativeDocumentMoniker": "chess\\database\\talk_to_database.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\database\\talk_to_database.cs",
+              "RelativeToolTip": "chess\\database\\talk_to_database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:50:00.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cube.xaml",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml",
+              "RelativeDocumentMoniker": "chess\\user_control\\cube.xaml",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml",
+              "RelativeToolTip": "chess\\user_control\\cube.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-31T17:11:37.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cube.xaml.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml.cs",
+              "RelativeDocumentMoniker": "chess\\user_control\\cube.xaml.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\user_control\\cube.xaml.cs",
+              "RelativeToolTip": "chess\\user_control\\cube.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAMwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T18:00:57.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "menu.xaml.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\menu.xaml.cs",
+              "RelativeDocumentMoniker": "chess\\windows\\menu.xaml.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\menu.xaml.cs",
+              "RelativeToolTip": "chess\\windows\\menu.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:48:03.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "self.xaml.cs",
+              "DocumentMoniker": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml.cs",
+              "RelativeDocumentMoniker": "chess\\windows\\self_play\\self.xaml.cs",
+              "ToolTip": "E:\\\u05D4\u05E0\u05D3\u05E1\u05EA \u05EA\u05D5\u05DB\u05E0\u05D4\\chess\\chess\\chess\\windows\\self_play\\self.xaml.cs",
+              "RelativeToolTip": "chess\\windows\\self_play\\self.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T15:46:05.689Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
